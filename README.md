@@ -2,7 +2,7 @@
 
 ## Description
 
-Just Another Text Editor, or JATE, is a browser-based text editor offering developers a convenient way to jot down notes and code snippets directly within their browser, with or without an internet connection. Utilizing modern web technologies such as Progressive Web Application (PWA) standards, service workers, and IndexedDB, JATE ensures that your data is preserved and accessible across sessions. The application is designed for quick edits and supports JavaScript syntax highlighting.
+Just Another Text Editor (JATE) is a browser-based text editor offering developers a convenient way to jot down notes and code snippets directly within their browser, with or without an internet connection. Utilising modern web technologies such as Progressive Web Application (PWA) standards, service workers, and IndexedDB, JATE ensures that your data is preserved and accessible across sessions. The application is designed for quick edits and supports JavaScript syntax highlighting.
 
 ## Installation
 
@@ -31,13 +31,12 @@ Just Another Text Editor, or JATE, is a browser-based text editor offering devel
   ```
 
 ## Features
-- Works offline thanks to service workers and IndexedDB data persistence.
+- Works offline with service workers and IndexedDB data persistence.
 - Can be installed as a standalone application on desktop environments.
 - Provides a clean, distraction-free interface for writing and saving notes or code.
 - Supports syntax highlighting for JavaScript.
 
 ## Screenshot
-Here's what JATE looks like in action:
 ![JATE Screenshot](/screenshot.JPG)
 
 ## Acknowledgements
